@@ -1,0 +1,5 @@
+{
+  "version": "1.2",
+  "url": "https://example.com/download",
+  "note": "发布新版本时改这里：version 加一档（要大于 exe 里的 APP_VERSION），url 换成新的下载页"
+}
